@@ -3,6 +3,7 @@
 Fill out your name here:
 
 **First Name:**
+
 **Last Name:** 
 
 Go to `triangle-area.js` and implement the function `getTriangleArea()`. You should only change the `result` with the correct formula.
